@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+![stormstone's github stats](https://github-readme-stats.vercel.app/api?username=stormstone&show_icons=true&hide_border=true)
+
+
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
